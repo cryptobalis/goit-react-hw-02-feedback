@@ -1,0 +1,23 @@
+.app_container {
+   font-family: sans-serif;
+   padding: 40px;
+   display: flex;
+   flex-direction: column;
+   justify-content: left;
+   align-items: baseline;
+   color: #010101;
+}
+
+.btn__list {
+   display: flex;
+   gap: 5px;
+   margin-top: 2cqb;
+}
+
+.statistics__container {
+   padding-top: 20px;
+}
+
+.statistics__item-text {
+   text-transform: capitalize;
+}
